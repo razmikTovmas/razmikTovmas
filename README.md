@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 -->
 
 ---
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=razmikTovmas&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razmikTovmas&count_private=true&layout=compact)
+
+---
+### Medium Posts
+
+[![Medium articles](https://github-readme-medium.vercel.app/?username=razmikTovmas&limit=3)](https://medium.com/@razmikTovmas)
