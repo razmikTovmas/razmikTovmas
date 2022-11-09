@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Ռազմիկ (Razmik)
 
-- 🔭 I'm currently working on the implementation of the graph data structure and its algorithms
 - 🌱 I'm currently learning Machine Learning
 - 👯 I'm looking to collaborate on open-source projects
-- 🤔 I'm thinking about the world
+
 <!--
 **razmikTovmas/razmikTovmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
